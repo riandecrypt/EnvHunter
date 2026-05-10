@@ -46,7 +46,7 @@ EnvHunter adalah tool security testing untuk mendeteksi dan mengekstrak public e
     Penelitian dan edukasi keamanan
 
 # Requirements
-    pip install requirements.txt
+    pip install -r requirements.txt
 # Install Tools
     git clone https://github.com/riandecrypt/EnvHunter.git
     cd EnvHunter
