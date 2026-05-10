@@ -28,5 +28,7 @@ EnvHunter adalah tool security testing untuk mendeteksi dan mengekstrak public e
 pip install requests beautifulsoup4
 
 git clone https://github.com/riandecrypt/EnvHunter.git
+
 cd EnvHunter
+
 chmod +x env-hunter.py
