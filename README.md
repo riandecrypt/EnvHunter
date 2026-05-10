@@ -25,10 +25,29 @@ EnvHunter adalah tool security testing untuk mendeteksi dan mengekstrak public e
 
     Developer Education - Demonstrasi mengapa environment variables di frontend tidak aman
 
-pip install requests beautifulsoup4
+⚠️ Legal & Ethical Disclaimer
 
-git clone https://github.com/riandecrypt/EnvHunter.git
+    PENTING: Tool ini dibuat untuk edukasi dan security testing pada aplikasi yang Anda miliki atau memiliki izin tertulis. Penggunaan tanpa izin dapat melanggar hukum di berbagai yurisdiksi.
 
-cd EnvHunter
+🚫 Dilarang Menggunakan Untuk:
 
-chmod +x env-hunter.py
+    Scanning website milik orang lain tanpa izin
+
+    Mengekstrak data sensitif untuk tujuan ilegal
+
+    Melakukan tindakan yang melanggar hukum siber
+
+✅ Penggunaan yang Diperbolehkan:
+
+    Testing pada aplikasi/produk Anda sendiri
+
+    Security assessment dengan izin tertulis dari pemilik
+
+    Penelitian dan edukasi keamanan
+
+# Requirements
+    pip install requirements.txt
+# Install Tools
+    git clone https://github.com/riandecrypt/EnvHunter.git
+    cd EnvHunter
+    chmod +x env-hunter.py
