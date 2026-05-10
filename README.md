@@ -24,3 +24,8 @@ EnvHunter adalah tool security testing untuk mendeteksi dan mengekstrak public e
     Compliance Testing - Pastikan tidak ada sensitive data yang bocor ke client-side
 
     Developer Education - Demonstrasi mengapa environment variables di frontend tidak aman
+
+Prerequisites
+bash
+
+pip install requests beautifulsoup4
